@@ -11,7 +11,7 @@ export const metadata: Metadata = {  // 网页标题名字
 
 export default function Page() {
   return (
-    <Hero imgUrl={homeSrc} altTxt={'Home'} content={'Welcome to our website'} />
+    <Hero imgUrl={homeSrc} altTxt={'Home'} content={'Welcome to our website!!!'} />
 
     // <div className='h-screen relative'>
     //   <div className='absolute inset-0 -z-10'>
